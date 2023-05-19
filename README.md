@@ -9,7 +9,8 @@ My movies website is a modern and user-friendly platform designed to provide an 
 
 ## Demo
 
-https://aziza-fashion.web.app
+https://movie-buzz-silk.vercel.app
+
 ## Use Package
 - Tailwind css
 - React
