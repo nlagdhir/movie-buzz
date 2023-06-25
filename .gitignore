@@ -4,9 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-/utilities
-/apiConfig.js
-/config.js
+utilities
+apiConfig.js
+config.js
 .env
 # testing
 /coverage

@@ -2,13 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/*yellow!: #feda6a
-
-Silver Fox: #d4d4dc
-
-Deep Matte Grey: #393f4d
-
-Dark Slate: #1d1e22 */
+ 
 @import url('https://fonts.googleapis.com/css2?family=Patua+One&family=Poppins:wght@300&display=swap');
 body {
   margin: 0;
